@@ -1,0 +1,6 @@
+[report]
+include =
+    src/d11/*
+omit =
+    */test*
+    */upgrades/*

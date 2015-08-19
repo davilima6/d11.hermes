@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<layers>
+  <layer
+      name="d11.hermes"
+      interface="d11.hermes.interfaces.ID11HermesLayer"
+      />
+</layers>
