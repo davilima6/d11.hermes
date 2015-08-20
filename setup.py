@@ -43,9 +43,17 @@ setup(
     include_package_data=True,
     zip_safe=False,
     install_requires=[
+        'cs.auth.facebook',
+        'collective.cover',
+        'collective.favorites',
+        'eea.facetednavigation',
         'plone.api',
+        'plone.app.contenttypes',
+        'plone.app.multilingual',
         'setuptools',
         'z3c.jbot',
+        'Products.ATVocabularyManager',
+        'Products.PloneFormGen'
     ],
     extras_require={
         'test': [
