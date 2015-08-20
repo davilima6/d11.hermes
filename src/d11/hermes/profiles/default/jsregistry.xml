@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<object name="portal_javascripts" meta_type="JavaScripts Registry">
+ <javascript id="++resource++d11.hermes/workaround-bbq-and-jq-1.7.js"
+    insert-before="++resource++jquery.bbq.js" />
+ <javascript id="++resource++d11.hermes/main.js" />
+</object>
